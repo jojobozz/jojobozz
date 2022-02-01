@@ -1,4 +1,13 @@
-### Hi there 👋
+**Hi, I'm Juana!** :whale:
+
+____________________________________________________________________________________________________________________________________________________________________
+
+About me:
+
+-   :woman_technologist: I'm student of Oceanography 
+-   :microscope: I'm undergraduate research at @LaPoGeo-Mar at Federal University of Santa Catarina
+-   :desktop_computer: I'm trying to develop a code to analyse plastics resin pellets
+-   :mailbox_with_mail: How to reach me: [LinkedIn](https://www.linkedin.com/in/juanagbozzetto/) or [Instagram](instagram.com/juanabozzetto/)
 
 <!--
 **jojobozz/jojobozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

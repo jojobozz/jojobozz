@@ -4,9 +4,8 @@ ________________________________________________________________________________
 
 About me:
 
--   :woman_technologist: I'm student of Oceanography 
--   :microscope: I'm undergraduate research at @LaPoGeo-Mar at Federal University of Santa Catarina
--   :desktop_computer: I'm trying to develop a code to analyse plastics resin pellets
+-   :woman_technologist: I'm an oceanographer  
+-   :microscope: I'm currently learning Data Science and Geoprocessing
 -   :mailbox_with_mail: How to reach me: [LinkedIn](https://www.linkedin.com/in/juanagbozzetto/) or [Instagram](instagram.com/juanabozzetto/)
 
 <!--
